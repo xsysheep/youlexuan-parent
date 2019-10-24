@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="youlexuan-user-web:war">
+    <output-path>$PROJECT_DIR$/youlexuan-user-web/target</output-path>
+    <root id="archive" name="youlexuan-user-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="youlexuan-user-web:war exploded" />
+    </root>
+  </artifact>
+</component>

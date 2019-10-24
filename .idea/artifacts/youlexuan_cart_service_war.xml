@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="youlexuan-cart-service:war">
+    <output-path>$PROJECT_DIR$/youlexuan-cart-service/target</output-path>
+    <root id="archive" name="youlexuan-cart-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="youlexuan-cart-service:war exploded" />
+    </root>
+  </artifact>
+</component>
